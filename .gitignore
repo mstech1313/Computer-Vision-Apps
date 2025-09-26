@@ -3,3 +3,4 @@ __pycache__/
 .env
 azure-image-analyzer-env/
 .vscode/
+backend/config.py
