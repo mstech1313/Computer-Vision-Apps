@@ -1,0 +1,1 @@
+AZURE_ENDPOINT = 'your-azure-endpoint-here'\nAZURE_KEY = 'your-azure-key-here'
