@@ -1,2 +1,2 @@
-set AZURE_ENDPOINT="https://1computervisionservice.cognitiveservices.azure.com/"
-set AZURE_KEY="EN66hQxGIGEihvTOeXrTkWnR2WKGOGvOFwCZrD5jNVBMAriRfzJZJQQJ99BIAC3pKaRXJ3w3AAAFACOGXw6g"
+AZURE_ENDPOINT = 'your-azure-endpoint-here'
+AZURE_KEY = 'your-azure-key-here'
